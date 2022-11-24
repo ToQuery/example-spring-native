@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ExampleSpringBootNativeMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <module name="example-spring-boot-native-mybatis" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.toquery.example.spring.boot.nativex.ExampleSpringBootNativeMybatisApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

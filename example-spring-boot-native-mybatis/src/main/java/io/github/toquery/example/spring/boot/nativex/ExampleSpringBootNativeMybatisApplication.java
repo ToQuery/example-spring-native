@@ -1,13 +1,13 @@
-package io.github.toquery;
+package io.github.toquery.example.spring.boot.nativex;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExampleSpringBootNativeApplication {
+public class ExampleSpringBootNativeMybatisApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExampleSpringBootNativeApplication.class, args);
+		SpringApplication.run(ExampleSpringBootNativeMybatisApplication.class, args);
 	}
 
 }

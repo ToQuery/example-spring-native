@@ -27,4 +27,9 @@ server:
 
 spring:
   application:
-    name: example-spring-boot-native-demo
+    name: example-spring-boot-native-mybatis
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:h2:file:./docs/data/example-spring-boot-native

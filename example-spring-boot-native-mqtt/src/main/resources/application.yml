@@ -27,4 +27,4 @@ server:
 
 spring:
   application:
-    name: example-spring-boot-native-demo
+    name: example-spring-boot-native-mqtt
