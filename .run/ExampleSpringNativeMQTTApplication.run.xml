@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ExampleSpringNativeMQTTApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="example-spring-native-mqtt" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.toquery.example.spring.nativex.ExampleSpringNativeMQTTApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

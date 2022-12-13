@@ -13,9 +13,9 @@
     <packaging>pom</packaging>
 
     <groupId>io.github.toquery</groupId>
-    <artifactId>example-spring-boot-native</artifactId>
+    <artifactId>example-spring-native</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>example-spring-boot-native</name>
+    <name>example-spring-native</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -24,10 +24,10 @@
     </properties>
 
     <modules>
-        <module>example-spring-boot-native-demo</module>
-        <module>example-spring-boot-native-mybatis</module>
-        <module>example-spring-boot-native-mybatis-plus</module>
-        <module>example-spring-boot-native-mqtt</module>
+        <module>example-spring-native-demo</module>
+        <module>example-spring-native-mybatis</module>
+        <module>example-spring-native-mybatis-plus</module>
+        <module>example-spring-native-mqtt</module>
     </modules>
 
     <dependencies>
